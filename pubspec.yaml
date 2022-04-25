@@ -37,6 +37,7 @@ dependencies:
   bottom_navy_bar: ^6.0.0
   font_awesome_flutter: ^10.1.0
   community_material_icon: ^5.9.55
+  syncfusion_flutter_pdfviewer: ^19.4.52-beta
 
 dev_dependencies:
   flutter_test:
